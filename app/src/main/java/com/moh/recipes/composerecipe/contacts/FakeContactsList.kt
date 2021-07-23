@@ -1,0 +1,25 @@
+package com.moh.recipes.composerecipe.contacts
+
+val FakeContactsList = listOf(
+    Contact("Abi", "James", "+1107236134"),
+    Contact("Carter", "Liam", "+01935711234"),
+    Contact("John", "Henry", "+92843611234"),
+    Contact("Moh", "Khaled", "+1746234124"),
+    Contact("David", "William", "+11398561234"),
+    Contact("Ahmed", "Jamal", "+71350987234"),
+    Contact("Sara", "Lucas", "+51350987234"),
+    Contact("Abi2", "James", "+11072361342"),
+    Contact("Carter2", "Liam", "+019357112342"),
+    Contact("John2", "Henry", "+928436112342"),
+    Contact("Moh2", "Khaled", "+17462341242"),
+    Contact("David2", "William", "+113985612342"),
+    Contact("Ahmed2", "Jamal", "+713509872342"),
+    Contact("Sara2", "Lucas", "+513509872342"),
+    Contact("Abi3", "James", "+11072361343"),
+    Contact("Carter3", "Liam", "+019357112343"),
+    Contact("John3", "Henry", "+928436112343"),
+    Contact("Moh3", "Khaled", "+17462341243"),
+    Contact("David3", "William", "+113985612343"),
+    Contact("Ahmed3", "Jamal", "+713509872343"),
+    Contact("Sara3", "Lucas", "+513509872343"),
+)
